@@ -1,0 +1,38 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+
+  mat-toolbar{
+    background-color: black;
+    color: aliceblue;
+  }
+  .maphoo{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 800;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  .main-body {
+    padding-top: 20px;
+    margin: 0 auto;
+    max-width: 1348px;
+    mat-form-field {
+      width: 100%;
+    }
+  }
+
+  .larger-icon {
+    font-size: 50px;
+  }
+  
+  
+  .action {
+    display: flex;
+    gap: 5px;
+  }
+  .add-employee-btn {
+    margin-right: 10px;
+    color: rgb(226, 226, 234);
+    background-color: black;
+  }
+  
