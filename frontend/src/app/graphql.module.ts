@@ -17,7 +17,7 @@ import { HttpClientModule } from '@angular/common/http';
           return {
             cache: new InMemoryCache(),
             link: httpLink.create({
-              uri: 'https://enthusiastic-slip-slug.cyclic.app/graphql',
+             uri: 'https://employee-management-8hvz.onrender.com/graphql',
             }),
           };
         },
